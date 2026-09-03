@@ -29,7 +29,7 @@ Export maps with Zanieon's modified Warmist [python script](https://discord.com/
 | ------------- |:-------------:| -----:|
 | mp_angel_city | Null |  |
 | mp_black_water_canal | Null |  |
-| mp_coliseum | Null |  |
+| mp_coliseum | Perfect |  |
 | mp_coliseum_column | Good | Pillars don't have navmesh |
 | mp_colony02 | Null |  |
 | mp_complex3 | Null |  |
